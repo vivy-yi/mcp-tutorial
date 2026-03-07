@@ -22,7 +22,7 @@ The most popular and widely-used MCP servers in the ecosystem:
 | 7 | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | ![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare) | Cloudflare Workers, KV, R2, D1 |
 | 8 | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | ![Stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server) | Exa web search and crawling |
 | 9 | [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | ![Stars](https://img.shields.io/github/stars/tadata-org/fastapi_mcp) | Expose FastAPI as MCP tools |
-| 10 | [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | ![Stars](https://img.shields.io/github/stars/neo4j-contrib/mcp-neo4j) | Neo4j graph database |
+| 10 | [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) | ![Stars](https://img.shields.io/github/stars/arben-adm/mcp-sequential-thinking) | Sequential thinking for enhanced reasoning |
 | 11 | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | ![Stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP) | Figma layout info for AI coding |
 | 12 | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | ![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian) | Confluence & Jira integration |
 | 13 | [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) | ![Stars](https://img.shields.io/github/stars/arben-adm/mcp-sequential-thinking) | Sequential thinking for enhanced reasoning |
