@@ -7,8 +7,31 @@
 
 Model Context Protocol (MCP) is an open protocol that enables AI assistants to connect with external data sources and tools. This list aggregates MCP resources from across the ecosystem.
 
+## Featured - Top 15 Popular MCP Servers
+
+The most popular and widely-used MCP servers in the ecosystem:
+
+| # | Project | Stars | Description |
+|---|---------|-------|-------------|
+| 1 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | ![Stars](https://img.shields.io/github/stars/github/github-mcp-server) | GitHub's official MCP server - Issues, PRs, repos |
+| 2 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | ![Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) | Browser automation with Playwright |
+| 3 | [upstash/context7](https://github.com/upstash/context7) | ![Stars](https://img.shields.io/github/stars/upstash/context7) | Up-to-date code documentation for LLMs |
+| 4 | [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | ![Stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server) | Official Notion integration |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ![Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents |
+| 6 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server) | Web scraping and search |
+| 7 | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | ![Stars](https://img.shields.io/github/stars/cloudflare/mcp-server-cloudflare) | Cloudflare Workers, KV, R2, D1 |
+| 8 | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | ![Stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server) | Exa web search and crawling |
+| 9 | [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | ![Stars](https://img.shields.io/github/stars/neo4j-contrib/mcp-neo4j) | Neo4j graph database |
+| 10 | [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | ![Stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant) | Qdrant vector database |
+| 11 | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | ![Stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP) | Figma layout info for AI coding |
+| 12 | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | ![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian) | Confluence & Jira integration |
+| 13 | [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | ![Stars](https://img.shields.io/github/stars/tadata-org/fastapi_mcp) | Expose FastAPI as MCP tools |
+| 14 | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | ![Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server) | Kubernetes & OpenShift |
+| 15 | [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | ![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use) | Fullstack MCP framework |
+
 ## Contents
 
+- [Featured - Top 15 Popular MCP Servers](#featured---top-15-popular-mcp-servers)
 - [Official](#official)
 - [Management Tools](#management-tools)
 - [UI & Testing](#ui--testing)
