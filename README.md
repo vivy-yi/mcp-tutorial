@@ -111,31 +111,28 @@ Tools for managing, adapting, and integrating MCP servers.
 
 Dashboards, GUIs, and testing tools for MCP servers.
 
-### MCP Dashboards
+### MCP Dashboards & Managers
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [ogison/mcp-dashboard](https://github.com/ogison/mcp-dashboard) | ![Stars](https://img.shields.io/github/stars/ogison/mcp-dashboard) | GUI to register and manage MCP servers without editing config |
-| [Chillbruhhh/MCPportal](https://github.com/Chillbruhhh/MCPportal) | ![Stars](https://img.shields.io/github/stars/Chillbruhhh/MCPportal) | Configure and manage all MCPs through one single endpoint |
-| [bryankthompson/mcp-dashboard](https://github.com/bryankthompson/mcp-dashboard) | ![Stars](https://img.shields.io/github/stars/bryankthompson/mcp-dashboard) | Management interface for multiple MCP servers with real-time updates |
-| [dongkyun-yoo/mcp-dashboard](https://github.com/dongkyun-yoo/mcp-dashboard) | ![Stars](https://img.shields.io/github/stars/dongkyun-yoo/mcp-dashboard) | Full-stack MCP Server Control Dashboard for Claude Code |
+| [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) | ![Stars](https://img.shields.io/github/stars/mcp-router/mcp-router) | Unified MCP Server Management App (1822 stars) |
+| [amxv/mcp-manager](https://github.com/amxv/mcp-manager) | ![Stars](https://img.shields.io/github/stars/amxv/mcp-manager) | Simple web UI to manage MCP servers |
+| [petiky/mcp-manager](https://github.com/petiky/mcp-manager) | ![Stars](https://img.shields.io/github/stars/petiky/mcp-manager) | Visual client tool for MCP environment management |
+| [MediaPublishing/mcp-manager](https://github.com/MediaPublishing/mcp-manager) | ![Stars](https://img.shields.io/github/stars/MediaPublishing/mcp-manager) | Web-based GUI for Claude and Cursor |
+| [qdhenry/Claude-Code-MCP-Manager](https://github.com/qdhenry/Claude-Code-MCP-Manager) | ![Stars](https://img.shields.io/github/stars/qdhenry/Claude-Code-MCP-Manager) | Manage MCP configurations for Claude Code |
 
 ### MCP Inspectors & Testing Tools
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector) | Official visual testing tool for MCP servers |
 | [mcp-use/inspector](https://github.com/mcp-use/inspector) | ![Stars](https://img.shields.io/github/stars/mcp-use/inspector) | Modern MCP Inspector for remote MCP servers |
 | [lujin3/mcp-inspector](https://github.com/lujin3/mcp-inspector) | ![Stars](https://img.shields.io/github/stars/lujin3/mcp-inspector) | MCP Inspector based on Tauri 2 + Vue 3 |
 | [dabit3/mcp-inspector](https://github.com/dabit3/mcp-inspector) | ![Stars](https://img.shields.io/github/stars/dabit3/mcp-inspector) | CLI tool to inspect MCP servers and analyze token costs |
-| [paulrobello/par-mcp-inspector-tui](https://github.com/paulrobello/par-mcp-inspector-tui) | ![Stars](https://img.shields.io/github/stars/paulrobello/par-mcp-inspector-tui) | TUI to inspect and test MCP servers |
 
 ### VSCode Extensions
 
-- [saxon-is-my-name/mcp-dashboard](https://github.com/saxon-is-my-name/mcp-dashboard) - VS Code extension to invoke MCP tools from GUI
-
-### Desktop & GUI Apps
-
-- [michaelmoser8875/MCP-Dashboard](https://github.com/michaelmoser8875/MCP-Dashboard) - Dashboard for inspecting tools, resources, and prompts
+- [LSTM-Kirigaya/openmcp-client](https://github.com/LSTM-Kirigaya/openmcp-client) - VSCode MCP plugin
 
 ---
 
