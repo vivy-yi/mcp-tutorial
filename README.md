@@ -1,8 +1,8 @@
 # Awesome MCP
 
-> A comprehensive curated list of Model Context Protocol (MCP) resources, servers, clients, frameworks, and tools.
+> A comprehensive curated list of Model Context Protocol (MCP) resources, servers, clients, frameworks, tools and complete tutorials.
 
-[![Stars](https://img.shields.io/github/stars/vivy-yi/awesome-mcp)](https://github.com/vivy-yi/awesome-mcp)
+[![Stars](https://img.shields.io/github/stars/vivy-yi/mcp-tutorial)](https://github.com/vivy-yi/mcp-tutorial)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue)](LICENSE)
 
 Model Context Protocol (MCP) is an open protocol that enables AI assistants to connect with external data sources and tools. This list aggregates MCP resources from across the ecosystem.
