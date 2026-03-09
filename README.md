@@ -1,11 +1,11 @@
-# Awesome MCP
+# MCP Tutorial
 
-> A comprehensive curated list of Model Context Protocol (MCP) resources, servers, clients, frameworks, tools and complete tutorials.
+> A comprehensive guide to Model Context Protocol (MCP) including tutorials, servers, clients, frameworks, tools and complete learning resources.
 
 [![Stars](https://img.shields.io/github/stars/vivy-yi/mcp-tutorial)](https://github.com/vivy-yi/mcp-tutorial)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue)](LICENSE)
 
-Model Context Protocol (MCP) is an open protocol that enables AI assistants to connect with external data sources and tools. This list aggregates MCP resources from across the ecosystem.
+Model Context Protocol (MCP) is an open protocol that enables AI assistants to connect with external data sources and tools. This project provides comprehensive tutorials and resources for learning MCP.
 
 ## Featured - Top 15 Popular MCP Servers
 
@@ -28,6 +28,31 @@ The most popular and widely-used MCP servers in the ecosystem:
 | 13 | [idosal/git-mcp](https://github.com/idosal/git-mcp) | ![Stars](https://img.shields.io/github/stars/idosal/git-mcp) | GitMCP - End code hallucinations with real-time GitHub context |
 | 14 | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | ![Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server) | Kubernetes & OpenShift |
 | 15 | [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | ![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use) | Fullstack MCP framework |
+
+---
+
+## Complete Tutorial - 出版级教程
+
+A comprehensive MCP tutorial covering from basics to enterprise-level applications.
+
+### 📚 Book Structure
+
+| Volume | Chapters | Description |
+|--------|----------|-------------|
+| [卷一: 基础入门](./book/卷一-基础入门/) | 11 章 | MCP 概念、客户端、生态、管理工具 |
+| [卷二: 开发实战](./book/卷二-开发实战/) | 15 章 | 框架使用、场景实战 |
+| [卷三: 企业级应用](./book/卷三-企业级应用/) | 16 章 | 架构设计、AI集成、协议对比 |
+
+### Tutorial Highlights
+
+- ✅ 40+ 章节完整内容
+- ✅ 出版级质量标准
+- ✅ 原理优先，配有 Mermaid 图解
+- ✅ 完整代码示例
+- ✅ 企业级架构设计
+- ✅ AI 框架集成实战
+
+---
 
 ## Contents
 
